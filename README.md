@@ -9,7 +9,7 @@ e75b6&style=flat" alt="Nilesh1798" /> </p>
 <img align="right" alt="coding" width ="400"
 src="https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d
 0-c894383d35b4.gif">
--🔭I’m currently working on **Competitive Pogramming**
+-🔭I’m currently working on **Competitive Programming**
 -🌱I’m currently learning ** Web development**
 -👨‍💻All of my projects are available at
 [https://github.com/Nilesh1798?tab=repositories](https://github.com/Nilesh1798?tab=repositories)
