@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on **Competitive Programming**  
 - 🌱 I’m currently learning **Web Development**  
 - 👨‍💻 All of my projects are available [here](https://github.com/Nilesh1798?tab=repositories)  
-- 💬 Ask me about **Python, Java, DSA & Projects**  
+- 💬 Ask me about **Python, Java, DSA, Machine Learning, Deep Learning, and Computer Vision**  
 - 📫 Reach me at **nileshpandey8740@gmail.com**  
 
 ---
@@ -50,6 +50,11 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-007ACC?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-008080?style=for-the-badge&logo=deep-learning&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
 </p>
 
 ---
